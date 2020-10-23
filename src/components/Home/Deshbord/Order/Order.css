@@ -1,0 +1,30 @@
+.a{
+    height: 500px;
+    width: 100%;
+    background-color: aquamarine;
+    
+}
+#a{
+    height: 40px;
+    width: 50%;
+    padding:10px;
+    margin: 5px;
+    padding-left: 10px;
+    margin-left: 40px;
+}
+#product{
+    height: 70px;
+    width: 50%;
+    padding:10px;
+    margin: 5px;
+    padding-left: 10px;
+    margin-left: 40px;
+}
+#price{
+    height: 40px;
+    width: 25%;
+    padding:10px;
+    margin: 5px;
+    padding-left: 10px;
+    margin-left: 40px;
+}
